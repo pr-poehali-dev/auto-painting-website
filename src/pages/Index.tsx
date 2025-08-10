@@ -12,7 +12,7 @@ const Index = () => {
             <img 
               src="https://cdn.poehali.dev/files/e61c5f1a-6ba4-4514-9bd7-511064a9fcca.png" 
               alt="PragmatMaster" 
-              className="h-16 w-auto"
+              className="h-16 w-auto mix-blend-multiply"
             />
           </div>
           <nav className="hidden md:flex space-x-8">
@@ -265,7 +265,7 @@ const Index = () => {
               <img 
                 src="https://cdn.poehali.dev/files/e61c5f1a-6ba4-4514-9bd7-511064a9fcca.png" 
                 alt="PragmatMaster" 
-                className="h-12 w-auto mb-4"
+                className="h-12 w-auto mb-4 mix-blend-multiply"
               />
               <p className="text-slate-400">
                 Профессиональная покраска автомобилей с гарантией качества
